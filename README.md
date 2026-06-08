@@ -1,4 +1,4 @@
-<h1 align="center">What's Up BROW?</h1>
+<h1 align="center">What's Up Broder?</h1>
 
 ###
 
